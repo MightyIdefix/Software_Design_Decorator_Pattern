@@ -1,0 +1,19 @@
+C:\Users\Frederik\Aarhus universitet\Jesper Kristensen - 4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\Frederik\Aarhus universitet\Jesper Kristensen - 4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\Frederik\Aarhus universitet\Jesper Kristensen - 4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\Frederik\Aarhus universitet\Jesper Kristensen - 4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+C:\Users\Frederik\Aarhus universitet\Jesper Kristensen - 4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\Frederik\Aarhus universitet\Jesper Kristensen - 4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\rasmu\Aarhus universitet\Jesper Kristensen - 4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\rasmu\Aarhus universitet\Jesper Kristensen - 4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\rasmu\Aarhus universitet\Jesper Kristensen - 4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\rasmu\Aarhus universitet\Jesper Kristensen - 4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\rasmu\Aarhus universitet\Jesper Kristensen - 4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\rasmu\Aarhus universitet\Jesper Kristensen - 4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+C:\Users\PCUser\OneDrive - Aarhus universitet\4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\PCUser\OneDrive - Aarhus universitet\4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\PCUser\OneDrive - Aarhus universitet\4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\PCUser\OneDrive - Aarhus universitet\4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+C:\Users\PCUser\OneDrive - Aarhus universitet\4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\PCUser\OneDrive - Aarhus universitet\4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\PCUser\OneDrive - Aarhus universitet\4. Semester\SWD\Aflevering\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
